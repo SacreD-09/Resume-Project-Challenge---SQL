@@ -3,7 +3,7 @@ Title: Resume Project Challenge: Data Analysis for Atliq Hardwares
 
 ## Project Description:
 
-This repository showcases my participation in the Codebasics Resume Project Challenge, aiming to demonstrate my data analysis skills for the Executive Management position at Atliq Hardwares, a leading computer hardware producer. The project leverages SQL queries to address ten business-centric ad-hoc requests and culminates in a tailored presentation for top-level management.Link to the challenge https://codebasics.io/challenge/codebasics-resume-project-challenge
+    This repository showcases my participation in the Codebasics Resume Project Challenge, aiming to demonstrate my data analysis skills for the Executive Management position at Atliq Hardwares, a leading computer            hardware producer. The project leverages SQL queries to address ten business-centric ad-hoc requests and culminates in a tailored presentation for top-level management.Link to the challenge https://codebasics.io/         challenge/codebasics-resume-project-challenge
 
 ## Key Features:
 
@@ -30,8 +30,8 @@ This repository showcases my participation in the Codebasics Resume Project Chal
 
 ## Contribution Guidelines:
 
-While this project is primarily intended as a portfolio piece, any feedback or suggestions for improvement are welcome. Remember to respect and maintain professional behavior when contributing.
+    While this project is primarily intended as a portfolio piece, any feedback or suggestions for improvement are welcome. Remember to respect and maintain professional behavior when contributing.
 
 ## License:
 
-This project is licensed under codebasics.
+    This project is licensed under codebasics.
