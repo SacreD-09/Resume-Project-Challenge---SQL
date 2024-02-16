@@ -1,4 +1,4 @@
-# Resume-Project-Challenge---SQL
+# Resume-Project-Challenge
 Title: Resume Project Challenge: Data Analysis for Atliq Hardwares
 
 ## Project Description:
